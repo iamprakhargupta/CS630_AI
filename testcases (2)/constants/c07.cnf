@@ -1,7 +1,0 @@
-Predicates: friends 
-Variables: 
-Constants: Kim Odie 
-Functions: 
-Clauses:
-friends(Kim,Odie) 
-!friends(Odie,Kim) 

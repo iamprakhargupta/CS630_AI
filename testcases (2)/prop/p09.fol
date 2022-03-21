@@ -1,6 +1,0 @@
-cookie → sweet
-chocolate → yummy
-sweet → brown
-brown → burnt ∨ chocolate
-sweet → ¬ burnt
-¬chocolate ∧ brown ∧ sweet

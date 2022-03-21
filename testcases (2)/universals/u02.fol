@@ -1,3 +1,0 @@
-∀ %x dog(%x) -> animal(%x)
-∀ %x cat(%x) -> animal(%x)
-∀ %x !animal(%x)
